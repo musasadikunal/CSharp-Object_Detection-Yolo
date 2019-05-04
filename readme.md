@@ -3,7 +3,7 @@
 
 Simple app for detecting and classifying images with **Alturos Yolo**. 
 
-
+<img src="yolo.PNG" height="400">
 
 
 ## Dependencies
